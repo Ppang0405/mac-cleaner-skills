@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mac Dev Cache Cleaner"
+  short_description: "Analyze and clean macOS dev caches safely"
+  default_prompt: "Scan caches first, classify risk, and clean only explicitly selected targets."
